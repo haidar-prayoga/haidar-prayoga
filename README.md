@@ -77,7 +77,10 @@ haidar-prayoga-88609a288
   <h2>Coming Soon...</h2>
 </div>
 <div>
-  I am a third semester student who is exploring the world of technology around programming
+
+> I am a third semester student who is exploring the world of technology around programming
+
+
 </div>
 <details>
  <summary>
