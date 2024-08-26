@@ -82,31 +82,3 @@ haidar-prayoga-88609a288
 
 
 </div>
-<details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/haidar-prayoga/haidar/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-Muria Kudus University-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-3.80-EFEEE9?style=for-the-badge"></span>
- </details>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/haidar-prayoga/haidar/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - ** Junior Web Developer ** 
-    - Moderate in tech stack learning
- </details>
-</details>
-
-
-<details>
-  <summary><h4> <img align="center" src="https://github.com/haidar-prayoga/haidar/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
-  <span></span>
-  
-</details>
-
