@@ -1,4 +1,9 @@
 <h1 align="center">Hi👋,I'm Haidar Prayoga</h1>
+```javascript
+const user = () => {
+  return "Hello Guys"
+}
+```
 <div align="center">
   <h2 style="font-size: 20px;">Junior Web Dev 👨‍💻</h2>
 </div>
