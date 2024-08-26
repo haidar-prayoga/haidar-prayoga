@@ -1,12 +1,30 @@
 <h1 align="center">Hi👋,I'm Haidar Prayoga</h1>
+<div>
+
+
 ```javascript
-const user = () => {
-  return "Hello Guys"
+const position = () => {
+  return "Junior Web Dev 👨‍💻 as FrontEnd"
 }
 ```
-<div align="center">
-  <h2 style="font-size: 20px;">Junior Web Dev 👨‍💻</h2>
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <br/>
   <div align="center">
     <h2 style="font-size: 20px;">Social Media</h2>
