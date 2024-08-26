@@ -18,14 +18,6 @@ const position = () => {
 
 
 
-
-
-
-
-
-
-
-  <br/>
   <div align="center">
     <h2 style="font-size: 20px;">Social Media</h2>
     <a href="">
