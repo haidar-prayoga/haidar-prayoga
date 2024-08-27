@@ -4,7 +4,7 @@
 
 ```javascript
 const position = () => {
-  return "Junior Web Dev 👨‍💻 as FrontEnd"
+  return "Beginner Web Dev 👨‍💻 as FrontEnd"
 }
 ```
 
