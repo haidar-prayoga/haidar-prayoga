@@ -44,6 +44,9 @@ haidar-prayoga-88609a288
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="height:22px; " />
     <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" style="height:22px; " />
     <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" style="height:22px; " />
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" style="height:22px; " />
+    <img src="https://img.shields.io/badge/Laragon-0E83CD.svg?style=for-the-badge&logo=Laragon&logoColor=white" style="height:22px; " />
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white" style="height:22px; " />
   </div>
   <div align="center">
     <h2  style="font-size: 20px;">Tech Stack</h2>
