@@ -3,9 +3,14 @@
 
 
 ```javascript
-const position = () => {
-  return "Beginner Web Dev 👨‍💻 as FrontEnd"
-}
+const self = [
+      {
+        name: "Haidar",
+        status: "student",
+        position: "beginner frontEnd",
+        region: "Indonesia"
+      }
+ ]
 ```
 
 
