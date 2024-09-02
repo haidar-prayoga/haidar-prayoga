@@ -7,7 +7,8 @@ const self = [
       {
         name: "Haidar",
         status: "student",
-        position: "beginner frontEnd",
+        university: "Muria Kudus University",
+        position: "beginner frontEnd 👨‍💻",
         region: "Indonesia"
       }
  ]
