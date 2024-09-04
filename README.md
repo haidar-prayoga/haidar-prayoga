@@ -1,5 +1,16 @@
 # 💫 About Me:
-Iam 3rd Student At Muria Kudus University
+```javascript
+{
+    "name": Haidar Prayoga,
+    "region": "Indonesia",
+    "data": {
+        "present state": Beginner FrontEnd dev,
+        "status": 3rd Student at Muria Kudus University,
+        "major": "Informatics Engineering",
+        "hobby": "Fishing & Learning tech stack"
+    }
+}
+```
 
 
 ## 🌐 Socials:
