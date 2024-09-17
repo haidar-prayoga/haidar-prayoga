@@ -1,11 +1,11 @@
 # 💫 About Me:
 ```javascript
 {
-    "name": Haidar Prayoga,
+    "name": "Haidar Prayoga",
     "region": "Indonesia",
     "data": {
-        "present state": Beginner FrontEnd dev,
-        "status": 3rd Student at Muria Kudus University,
+        "present state": "Beginner FrontEnd dev",
+        "status": "3rd Student at Muria Kudus University",
         "major": "Informatics Engineering",
         "hobby": "Fishing & Learning tech stack"
     }
